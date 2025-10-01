@@ -21,7 +21,7 @@ git clone https://github.com/Callylove/header.git
 
 ### 2. Navigate to project folder
 ```bash
-cd sign_up
+cd header
 ```
 
 ### 3. Install dependencies
